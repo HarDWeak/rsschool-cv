@@ -1,5 +1,6 @@
 # My CV
-1. 1:Alexey Gerasimov
-2. 2:+79537437719
-3. 3:I want to become a developer and develop in the future! 
-4. 4:Just started learning programming:)
+* 1:Alexey Gerasimov
+* 2:+79537437719
+* 3:I want to become a developer and develop in the future! 
+* 4:Just started learning programming:)
+* :smile:
